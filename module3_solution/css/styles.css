@@ -3,6 +3,8 @@
   font-family: "varela round", sans-serif;
 }
 body {
+  margin: 0px;
+  padding: 0px;
   background-color: #e6e6dc;
 }
 /** HEADER **/
@@ -34,6 +36,9 @@ h2 {
 }
 #button:hover {
   background-color: #66a0b9;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #e6e6dc;
 }
 li {
   text-align: center;
